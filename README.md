@@ -12,14 +12,14 @@ Podrás ir hacia las secciones detalladas a continuación o simplemente desplaza
 
 Versión en Inglés [ACÁ](Welcome-to-#M4Labs-project!)
 
-<Section id="¿Qué?">
+<Section id="¿Qué es #M4Labs?">
 
 <h2>¿Qué es #M4labs?</h2>
 
 Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios colaborativos y/o Labs. Explorar,Sistematizar, Abrir e Investigar su creación, uso, reutilización y reproductibilidad global.
 
 </Section>
-<a href="Qué?">¿"Qué" es #M4Labs?</a>
+<a href="Qué es #M4Labs?">¿"Qué" es #M4Labs?</a>
 
 ** [¿Cuál es el problema?](#¿Cuál-es-el-problema?)
 
