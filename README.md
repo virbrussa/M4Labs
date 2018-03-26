@@ -14,12 +14,12 @@ Versión en Inglés [ACÁ](Welcome-to-#M4Labs-project!)
 
 <h2>Contenido</h2>
 
-* [¿Qué es #M4Labs?](#¿Qué-es-#M4Labs?)
-* [¿Cuál es el problema?](#¿Cuál-es-el-problema?)
-* [¿Qué hacemos desde M4Labs para ayudar?](#¿Qué-hacemos-desde-M4Labs-para-ayudar?)
-* [Detrás del #M4labs](#Detrás-del-#M4labs)
-* [¿Cómo puedes colaborar?](#¿Cómo-puedes-colaborar?)
-* [Contacta M4Labs](#Contacta-M4Labs)
+* [¿Qué es #M4Labs?](#qué-es-#m4labs)
+* [¿Cuál es el problema?](#cuál-es-el-problema)
+* [¿Qué hacemos desde M4Labs para ayudar?](#Qué-hacemos-desde-m4labs-para-ayudar)
+* [Detrás del #M4labs](#detrás-del-#m4labs)
+* [¿Cómo puedes colaborar?](#Cómo-puedes-colaborar)
+* [Contacta M4Labs](#contacta-m4labs)
 
 ## ¿Qué es #M4Labs?
 
