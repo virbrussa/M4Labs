@@ -21,12 +21,12 @@ Versión en Inglés [ACÁ](Welcome-to-#M4Labs-project!)
 * [¿Cómo puedes colaborar?](#¿Cómo-puedes-colaborar?)
 * [Contacta M4Labs](#Contacta-M4Labs)
 
-## ¿Qué es #M4Labs? **
+## ¿Qué es #M4Labs?
 
 Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios colaborativos y/o Labs. Explorar,Sistematizar, Abrir e Investigar su creación, uso, reutilización y reproductibilidad global.
 
 
-## ¿Cuál es el problema?**
+## ¿Cuál es el problema?
 
 <ul>
 <li>Las experiencias metodológicas están dispersas por toda la Web. No encontramos un espacio común contenga o reuna las actividades y productos derivados de la puesta en práctica de las mismas</li>
@@ -36,7 +36,7 @@ Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios
 <li>Existe una segmentada o escasa referencia al tema "metodologías" en el contexto de los LABS ( literatura, documentación, REA) en relación a su impacto para la apertura, colaboración o democratización del conocimiento.</li>
 </ul>
 
-## ¿Qué hacemos desde M4Labs para ayudar?**
+## ¿Qué hacemos desde M4Labs para ayudar?
 
 <ul>
 <li>Un primer paso es la posibilidad de explorar y reunir recursos ( de los "pasos metodológicos") usados por los Labs distribuídos como videos, papers,imágenes, tweets , documentación. Vamos a sistematizarlos a partir de una Expedición de MetodologíasLabs. Para eso remixamos aquella usada por la [Escuela de Datos](https://schoolofdata.org/methodology/)</li>
@@ -44,14 +44,14 @@ Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios
 <li>Desarrollaremos Recursos Educativos Abiertos a partir de lo sistematizado e incentivaremos a los Labs a crear sus recursos metodológicos como REA. Esta acción es un insumo para sensibilizar y linkear las potencialidades entre los movimientos de apertura en éste tema</li>
 </ul>
 
-## Detrás del #M4labs**
+## Detrás del #M4labs
 
 Acá Virginia Brussa desde Argentina. Internacionalista. Interesada en innovación,Labs,espacios colaborativos y prácticas abiertas
 
 Parte de este proyecto está participando del Programa [Mozilla Open Leaders](https://medium.com/read-write-participate/meet-our-next-cohort-of-open-leaders-ebc8dadb2e53)
 
 
-## ¿Cómo puedes colaborar?**
+## ¿Cómo puedes colaborar?
 
 Hay distintas modalidades!
 
@@ -59,7 +59,7 @@ Las compartimos en Contributing.md
 
 No olvides leer CodeofConduct.md
 
-## Contacta M4Labs**
+## Contacta M4Labs
 
 Puedes escribirme a virginiabrussa@gmail.com o
 
