@@ -12,15 +12,20 @@ Podrás ir hacia las secciones detalladas a continuación o simplemente desplaza
 
 Versión en Inglés [ACÁ](Welcome-to-#M4Labs-project!)
 
-* [¿Qué es #M4labs?](https://github.com/virbrussa/M4Labs#Qué-es-#M4Labs?)
+<Section id="¿Qué?">
+
+<h2>¿Qué es #M4labs?</h2>
 
 Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios colaborativos y/o Labs. Explorar,Sistematizar, Abrir e Investigar su creación, uso, reutilización y reproductibilidad global.
+
+</Section>
+<a href="Qué?">¿"Qué" es #M4Labs?</a>
 
 ** [¿Cuál es el problema?](#¿Cuál-es-el-problema?)
 
 <ul>
 <li>Las experiencias metodológicas están dispersas por toda la Web. No encontramos un espacio común contenga o reuna las actividades y productos derivados de la puesta en práctica de las mismas</li>
-  
+
 <li>Muchas veces esos recursos surgidos de los espacios colaborativos/LABS quedan "invisibles" , no accesibles , no abiertos considerando principios de acceso o datos abiertos</li>
 
 <li>Existe una segmentada o escasa referencia al tema "metodologías" en el contexto de los LABS ( literatura, documentación, REA) en relación a su impacto para la apertura, colaboración o democratización del conocimiento.</li>
@@ -47,31 +52,31 @@ Hay distintas modalidades!
 
 Las compartimos en Contributing.md
 
-No olvides leer CodeofConduct.md 
+No olvides leer CodeofConduct.md
 
 *[Contacta M4labs](#Contacta-M4Labs)
 
-Puedes escribirme a virginiabrussa@gmail.com o 
+Puedes escribirme a virginiabrussa@gmail.com o
 
-Pronto abriremosun canal de #M4labs en Telegram para ir compartiendo novedades del proyecto, noticias sobre el tema y mucho más. 
+Pronto abriremosun canal de #M4labs en Telegram para ir compartiendo novedades del proyecto, noticias sobre el tema y mucho más.
 
 
 <h1>Welcome to #M4Labs project!</h1>
 
 ***Can we establish the potential of the links between education, science and open data movements related to methodologies?***
 
-First thanks a lot for your interest. Yes, you are reading, visiting the Methodologies for Labs project! 
+First thanks a lot for your interest. Yes, you are reading, visiting the Methodologies for Labs project!
 This document (the Readme file) is a space to give you some information about the general project, the goal and steps to achieve it. Jump straight to one of the sections below, or just scroll down to find out more.
-You are invited to participate, sharing your ideas and data. 
-For these, you can read Contributing.md, CodeofConduct.md 
+You are invited to participate, sharing your ideas and data.
+For these, you can read Contributing.md, CodeofConduct.md
 
 * [What is #M4Labs?(And why?)](#What-is-#M4Labs?)
 
-Is an initiative interested on methodologies - as open practice -  used by Labs and collaborative spaces. 
+Is an initiative interested on methodologies - as open practice -  used by Labs and collaborative spaces.
 
 ** [What is a lab?](#What-is-a-lab?)
 
-I know , there are many models, typologies, cases of “laboratories” . For #M4labs just want to consider this  first approach : is a innovation space where are used collaboratives and open practices, methodologies and  methods to propose, share, prototype ideas, products, processes  to achieve the goal of solve ( but also research, think, experiment) problems related to the complex global context. There are ones from  humanitarian, citizen, academics, gov fields. 
+I know , there are many models, typologies, cases of “laboratories” . For #M4labs just want to consider this  first approach : is a innovation space where are used collaboratives and open practices, methodologies and  methods to propose, share, prototype ideas, products, processes  to achieve the goal of solve ( but also research, think, experiment) problems related to the complex global context. There are ones from  humanitarian, citizen, academics, gov fields.
 
 ** [What is a methodology?](#What-is-a-methodology?)
 
@@ -79,13 +84,13 @@ How we do that. A philosophy, paradigm. The steps by steps explanation of the pr
 
 *Examples*: the most popular methodology/phases used are: Empathize,Define,Ideate , Prototype, Test (from Design-Thinking). We can sum the recent  People-Led Innovation Methodology -Define, Ideate, Experiment, Expand-. So, we will  see diverse activities, tools incorporate to the labs spaces. These scattered  products/resources used by each steps  will be our research objects.
 
-1-Note:  we can find some literature related to labs where methodology is the same or is used like method. 
+1-Note:  we can find some literature related to labs where methodology is the same or is used like method.
 
 * [What is the problem](#What-is-the-problem)
 
 <ul>
 <li>Dispersed experiences. Lack of a common space for reunite the products/activities related to this type of methodologies.</li>
-  
+
 <li>These activities/steps of the methodologies used by labs or collaboratives spaces several times  remain  “invisibles”.</li>
 
 <li>Lack of interest on the role and the real impact of the “methodologies”  to the openness/democratization on the labs contexts.</li>
@@ -98,17 +103,17 @@ How we do that. A philosophy, paradigm. The steps by steps explanation of the pr
 <li>A lots of the steps (from methodologies/methods processes) used for labs are distributed as digital resources - video, papers, images, photos,tweets- across the all Web.  We need reunite its on a unique space to democratize the knowledge, practice and help the reproducibility issue. We can do it thinking about a  Methodologies Expedition to search ones. </li>
 <li>I think ones of the benefits of reunite on a digital platform ( second phase of #M4Labs) the different cases - as  open educational resources - of methodologies used by labs can help to put in evidence the linked practices within open movements.</li>
   </ul>
-  
+
 * [How can #M4labs help fix the gaps](#How-can-M4Labs-help-fix-the-gaps)
 
-As a first step towards achieving that objective we search the visible findings. The resources used on the process such as canvas templates, images, photos, documents, videos. I called this first task:** Methodologies Expedition ** (a remix of the School of Data methodology ). Here you can see the Guidelines and Spreadsheet.(SOON!) 
+As a first step towards achieving that objective we search the visible findings. The resources used on the process such as canvas templates, images, photos, documents, videos. I called this first task:** Methodologies Expedition ** (a remix of the School of Data methodology ). Here you can see the Guidelines and Spreadsheet.(SOON!)
 Locate useful  dimensions to understand the current “ state of the art” of lab methodologies. For that I will use two open surveys as a complementary tool for track info.
 Future Steps/Goals: Intervews,Digital Repository, Taxonomy,   Workshops about OER´s for lab methodologies and more. Create an OPEN CANVAS .  Your ideas!
-Soon the Roadmap! 
+Soon the Roadmap!
 
 ** [Who am I?](#Who-I-am?)
 
-Virginia Brussa from Argentina. Internationalist. Working close to innovation and collaborative spaces, labs, research. Very interested about how open practices could help to matching agendas , policies and skills between the academia, gov and civil society arenas. Advocacy for data, science, open education  actions. An you? 
+Virginia Brussa from Argentina. Internationalist. Working close to innovation and collaborative spaces, labs, research. Very interested about how open practices could help to matching agendas , policies and skills between the academia, gov and civil society arenas. Advocacy for data, science, open education  actions. An you?
 
 This project is currently participating in the Mozilla Open Leaders program.
 
@@ -119,6 +124,3 @@ For guidelines on how to contribute to this project, please check out our CONTRI
 Get involved in the wider #M4labs community project joined the Telegram group(Soon).
 
 <strong>Get in touch</strong>@ on Twitter (Spanish&English) & virginiabrussa@gmail.com
-
-
-
