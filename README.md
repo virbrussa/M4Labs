@@ -12,7 +12,7 @@ Podrás ir hacia las secciones detalladas a continuación o simplemente desplaza
 
 Versión en Inglés [ACÁ](Welcome-to-#M4Labs-project!)
 
-* [¿Qué es #M4labs?](#¿Qué-es-#M4Labs?)
+* [¿Qué es #M4labs?](https://github.com/virbrussa/M4Labs#Qué-es-#M4Labs?)
 
 Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios colaborativos y/o Labs. Explorar,Sistematizar, Abrir e Investigar su creación, uso, reutilización y reproductibilidad global.
 
