@@ -4,7 +4,7 @@ Gracias por tomarte tiempo en leer y entrar en el proyecto. Hay varias formas en
 
 ## Guía para colaborar
 
-Lee el README del proyecto
+Lee el [README](https://github.com/virbrussa/M4Labs/blob/master/README.md) del proyecto
 
 Lee el CodeofConduct del proyecto
 
