@@ -29,18 +29,18 @@ Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios
 ## ¿Cuál es el problema?
 
 <ul>
-<li>Las experiencias metodológicas están dispersas por toda la Web. No encontramos un espacio común contenga o reuna las actividades y productos derivados de la puesta en práctica de las mismas</li>
+<li>Las experiencias metodológicas están dispersas por toda la Web. No encontramos un espacio común que reuna las actividades y productos derivados de la puesta en práctica de las mismas</li>
 
-<li>Muchas veces esos recursos surgidos de los espacios colaborativos/LABS quedan "invisibles" , no accesibles , no abiertos considerando principios de acceso o datos abiertos</li>
+<li>Muchas veces esos recursos surgidos de los espacios colaborativos/LABS quedan "invisibles" , no accesibles , no abiertos. Queremos repensar a los mismos considerando los principios de acceso o datos abiertos</li>
 
-<li>Existe una segmentada o escasa referencia al tema "metodologías" en el contexto de los LABS ( literatura, documentación, REA) en relación a su impacto para la apertura, colaboración o democratización del conocimiento.</li>
+<li>Existe una segmentada o escasa referencia a las prácticas "metodologías" en el contexto de los LABS ( literatura, documentación, REA) en relación a su impacto para la apertura, colaboración o democratización del conocimiento.</li>
 </ul>
 
 ## ¿Qué hacemos desde M4Labs para ayudar?
 
 <ul>
-<li>Un primer paso es la posibilidad de explorar y reunir recursos ( de los "pasos metodológicos") usados por los Labs distribuídos como videos, papers,imágenes, tweets , documentación. Vamos a sistematizarlos a partir de una Expedición de MetodologíasLabs. Para eso remixamos aquella usada por la [Escuela de Datos](https://schoolofdata.org/methodology/)</li>
-<li>Como segunda fase del proyecto crearemos una plataforma digital para evidenciar toda la data reunida por los colaboradores a partir de Embajadores curadores de la info.</li>
+<li>Un primer paso es la posibilidad de explorar y reunir recursos ( de los "pasos metodológicos") usados por los Labs.Estos pueden estar distribuídos como videos, papers,imágenes, tweets , documentación. Vamos a sistematizarlos a partir de una Expedición de MetodologíasLabs. Para eso remixamos aquella usada por la [Escuela de Datos](https://schoolofdata.org/methodology/)</li>
+<li>Como segunda fase del proyecto crearemos una plataforma digital . En ella usaremos toda la evidencia recolectada , información obtenida de la primera fase . A través de Embajadores Curadores de la info iremos fortaleciendo la plataforma </li>
 <li>Desarrollaremos Recursos Educativos Abiertos a partir de lo sistematizado e incentivaremos a los Labs a crear sus recursos metodológicos como REA. Esta acción es un insumo para sensibilizar y linkear las potencialidades entre los movimientos de apertura en éste tema</li>
 </ul>
 
@@ -91,38 +91,40 @@ Is an initiative interested on methodologies - as open practice -  used by Labs 
 
 ### What is a lab?
 
-I know , there are many models, typologies, cases of “laboratories” . For #M4labs just want to consider this  first approach : is a innovation space where are used collaboratives and open practices, methodologies and  methods to propose, share, prototype ideas, products, processes  to achieve the goal of solve ( but also research, think, experiment) problems related to the complex global context. There are ones from  humanitarian, citizen, academics, gov fields.
+We know , there are many models, typologies, cases of “laboratories” . We just want to considerer for #M4labs this  first approach : is an innovation space where are used collaboratives and open practices, methodologies and methods . The lab field search for prototype ideas or products, processes  to achieve the aim of problems resolution ( but also research, think, experiment) linked to the glob al issues. 
 
-### What is a methodology?
+There are many types of labs : humanitarian, citizen, academics, governmental . They are called Fablab, Psilab, Hubs, Living Labs, MakerSpaces etc.
 
-How we do that. A philosophy, paradigm. The steps by steps explanation of the process regarding a particular method(1).
+### What is a methodology? (Methods)
+
+How we do that. It´s a philosophy, a paradigm. The methology is a steps by steps explanation of the process regarding a particular method(1).
 
 *Examples*: the most popular methodology/phases used are: Empathize,Define,Ideate , Prototype, Test (from Design-Thinking). We can sum the recent  People-Led Innovation Methodology -Define, Ideate, Experiment, Expand-. So, we will  see diverse activities, tools incorporate to the labs spaces. These scattered  products/resources used by each steps  will be our research objects.
 
-1-Note:  we can find some literature related to labs where methodology is the same or is used like method.
+1-Note:  we can find some literature research related to labs where methodology is the same or is used like method.
 
-## What is the problem
+## What is the problem?
 
 <ul>
-<li>Dispersed experiences. Lack of a common space for reunite the products/activities related to this type of methodologies.</li>
+<li>The methodologies experiences are diffused and hard to track. We can´t found a common space/platform that may includes the activities and products wich come from methologies practices.</li>
 
-<li>These activities/steps of the methodologies used by labs or collaboratives spaces several times  remain  “invisibles”.</li>
+<li>Many times the resources originate in a lab space remain  “invisibles” and unaccesible if we take the open data principles.</li>
 
-<li>Lack of interest on the role and the real impact of the “methodologies”  to the openness/democratization on the labs contexts.</li>
+<li>There is a reference lack of  “methodologies” practices in the context of labs (research, documentation, OER) related to the openness, collaboration and democratization of knowledge .</li>
 
 </ul>
 
-## What is the solution
+## What is the solution?
 
 <ul>
-<li>A lots of the steps (from methodologies/methods processes) used for labs are distributed as digital resources - video, papers, images, photos,tweets- across the all Web.  We need reunite its on a unique space to democratize the knowledge, practice and help the reproducibility issue. We can do it thinking about a  Methodologies Expedition to search ones. </li>
+<li>A lots of the steps (from methodologies/methods processes) used for labs are distributed as digital resources - video, papers, images, photos,tweets- across the all Web.  We need reunite its on a unique space to democratize the knowledge, practice and help the reproducibility issue. We can do it thinking about a  MethodologiesLab Expedition to search ones. </li>
 <li>I think ones of the benefits of reunite on a digital platform ( second phase of #M4Labs) the different cases - as  open educational resources - of methodologies used by labs can help to put in evidence the linked practices within open movements.</li>
   </ul>
 
 ## How can #M4labs help fix the gaps
 
-As a first step towards achieving that objective we search the visible findings. The resources used on the process such as canvas templates, images, photos, documents, videos. I called this first task:** Methodologies Expedition ** (a remix of the School of Data methodology ). Here you can see the Guidelines and Spreadsheet.(SOON!)
-Locate useful  dimensions to understand the current “ state of the art” of lab methodologies. For that I will use two open surveys as a complementary tool for track info.
+The first step is the possibility of explore and search resources used from the labs as canvas templates, images, photos, documents, videos to systematize them based on a ** Methodologies Expedition ** . For that we recycle the following methodology -> the School of Data methodology . Here you can see the Guidelines and Spreadsheet.(SOON!)
+Locate useful  dimensions to understand the current “ state of the art” of lab methodologies. 
 Future Steps/Goals: Intervews,Digital Repository, Taxonomy,   Workshops about OER´s for lab methodologies and more. Create an OPEN CANVAS .  Your ideas!
 Soon the Roadmap!
 
