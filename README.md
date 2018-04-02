@@ -39,7 +39,7 @@ Es un proyecto que intenta profundizar sobre el uso de metodologías en espacios
 ## ¿Qué hacemos desde M4Labs para ayudar?
 
 <ul>
-<li>Un primer paso es la posibilidad de explorar y reunir recursos ( de los "pasos metodológicos") usados por los Labs.Estos pueden estar distribuídos como videos, papers,imágenes, tweets , documentación. Vamos a sistematizarlos a partir de una Expedición de MetodologíasLabs. Para eso remixamos aquella usada por la [Escuela de Datos](https://schoolofdata.org/methodology/)</li>
+<li>Un primer paso es la posibilidad de explorar y reunir recursos ( de los "pasos metodológicos") usados por los Labs.Estos pueden estar distribuídos como videos, papers,imágenes, tweets , documentación. Vamos a sistematizarlos a partir de una Expedición de MetodologíasLabs. Para eso remixamos aquella usada por la [Escuela de Datos](https://schoolofdata.org/methodology) </li>
 <li>Como segunda fase del proyecto crearemos una plataforma digital . En ella usaremos toda la evidencia recolectada , información obtenida de la primera fase . A través de Embajadores Curadores de la info iremos fortaleciendo la plataforma </li>
 <li>Desarrollaremos Recursos Educativos Abiertos a partir de lo sistematizado e incentivaremos a los Labs a crear sus recursos metodológicos como REA. Esta acción es un insumo para sensibilizar y linkear las potencialidades entre los movimientos de apertura en éste tema</li>
 </ul>
