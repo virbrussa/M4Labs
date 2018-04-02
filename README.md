@@ -55,7 +55,7 @@ Parte de este proyecto está participando del Programa [Mozilla Open Leaders](ht
 
 Hay distintas modalidades!
 
-Las compartimos en Contributing.md
+Las compartimos en [Contributing.md](https://github.com/virbrussa/M4Labs/blob/master/CONTRIBUTING.md)
 
 No olvides leer CodeofConduct.md
 
@@ -136,7 +136,7 @@ This project is currently participating in the Mozilla Open Leaders program.
 
 ## How can you get involved?
 
-For guidelines on how to contribute to this project, please check out our CONTRIBUTING.md file.
+For guidelines on how to contribute to this project, please check out our [CONTRIBUTING.md](https://github.com/virbrussa/M4Labs/blob/master/CONTRIBUTING.md).
 
 Get involved in the wider #M4labs community project joined the Telegram group(Soon).
 
