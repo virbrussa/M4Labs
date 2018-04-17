@@ -89,19 +89,6 @@ For these, you can read Contributing.md, CodeofConduct.md
 
 Is an initiative interested on methodologies - as open practice -  used by Labs and collaborative spaces.
 
-### What is a lab?
-
-We know , there are many models, typologies, cases of “laboratories” . We just want to considerer for #M4labs this  first approach : is an innovation space where are used collaboratives and open practices, methodologies and methods . The lab field search for prototype ideas or products, processes  to achieve the aim of problems resolution ( but also research, think, experiment) linked to the glob al issues. 
-
-There are many types of labs : humanitarian, citizen, academics, governmental . They are called Fablab, Psilab, Hubs, Living Labs, MakerSpaces etc.
-
-### What is a methodology? (Methods)
-
-How we do that. It´s a philosophy, a paradigm. The methology is a steps by steps explanation of the process regarding a particular method(1).
-
-*Examples*: the most popular methodology/phases used are: Empathize,Define,Ideate , Prototype, Test (from Design-Thinking). We can sum the recent  People-Led Innovation Methodology -Define, Ideate, Experiment, Expand-. So, we will  see diverse activities, tools incorporate to the labs spaces. These scattered  products/resources used by each steps  will be our research objects.
-
-1-Note:  we can find some literature research related to labs where methodology is the same or is used like method.
 
 ## What is the problem?
 
