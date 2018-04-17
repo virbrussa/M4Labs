@@ -54,8 +54,17 @@ Parte de este proyecto está participando del Programa [Mozilla Open Leaders](ht
 ## ¿Cómo puedes colaborar?
 
 Hay distintas modalidades!
+- Puedes colaborar completando un excel llamado Expedición de Metodologías Labs donde vamos colocando recursos y experiencias realizadas por labs.
 
-Las compartimos en [Contributing.md](https://github.com/virbrussa/M4Labs/blob/master/CONTRIBUTING.md)
+- Puedes participar de una Encuesta con el objetivo de conocer tu opinión sobre el uso, acceso y apertura de las prácticas de los laboratorios de innovación.
+
+- Podrás participar del Met-a-thon que estamos preparando para festejar el Global Sprint [Aquí](https://github.com/mozilla/global-sprint/issues/212) 
+Tendremos charlas e Issues abiertos para debatir sobre la colaboración, la apertura y el rol de las metodologías.
+
+Las distintas formas de colaborar las compartimos en detalle en [Contributing.md](https://github.com/virbrussa/M4Labs/blob/master/CONTRIBUTING.md)
+
+Para cada modalidad de colaboración o participación también abrimos un ISSUE donde podrás comentar. También puedes ayudarnos abriendo el tuyo!
+
 
 No olvides leer CodeofConduct.md
 
