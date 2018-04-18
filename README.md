@@ -70,9 +70,9 @@ No olvides leer CodeofConduct.md
 
 ## Contacta M4Labs
 
-Puedes escribirme a virginiabrussa@gmail.com o
+Puedes escribirme a virginiabrussa@gmail.com 
 
-Pronto abriremos un canal de #M4labs en Telegram para ir compartiendo novedades del proyecto, noticias sobre el tema y mucho más.
+Pronto abriremos un canal de comunicación de #M4labs en Twitter para ir compartiendo novedades del proyecto, noticias sobre el tema y mucho más.
 
 * English Version
 <h2>Index</h2>
@@ -134,8 +134,8 @@ This project is currently participating in the Mozilla Open Leaders program.
 
 For guidelines on how to contribute to this project, please check out our [CONTRIBUTING.md](https://github.com/virbrussa/M4Labs/blob/master/CONTRIBUTING.md).
 
-Get involved in the wider #M4labs community project joined the Telegram group(Soon).
+Get involved in the wider #M4labs community project following our Twitter account(Soon).
 
 ## Get in touch
 
-For any further info, you can contact virginiabrussa@gmail.com or @
+For any further info, you can contact virginiabrussa@gmail.com 
