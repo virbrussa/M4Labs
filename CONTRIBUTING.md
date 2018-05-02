@@ -6,21 +6,41 @@ Gracias por tomarte tiempo en leer y entrar en el proyecto. Hay varias formas en
 
 Lee el [README](https://github.com/virbrussa/M4Labs/blob/master/README.md) del proyecto
 
-Lee el CodeofConduct del proyecto
+Lee el [Código de Conducta](https://github.com/virbrussa/M4Labs/blob/master/Code-Of-Conduct.md) del proyecto
 
-## Podrás ayudar en ...
+## Podrás ayudar siendo parte en ...
 
 * EXPEDICIÓN de METODOLOGÍAS LABS: Puedes ayudar completando este Spreedseet con información y recursos que encuentres sobre Metodologías [ACÁ](https://docs.google.com/spreadsheets/d/1rQstfx3ocTHAmXHYAo0blOLgt1M1GDxL_mdRmFoao0w/edit#gid=0)
 
-* Comenta el ISSUE "Que sumarias o modificarías en la Expedición?". Si tienes un Dataset de Labs o papers sobre el tema también puedes sumar tu idea.
+* ENCUESTA . Colabora participando en la encuesta y difúndela. Si sos responsable de crear o pensar en metodologías en tu Lab/espacio colaborativo o si participas como investigador, organización, gobierno o ciudadano en dichos espacios puedes contribuir. 
+[LINK ENCUESTA](https://goo.gl/forms/TZAbOwpBVQRyYGd22) ( SPA VERSION)
 
-* Comenta el ISSUE " Con cuáles fases/pasos metodológicos te identificas?" 
+* Participa del Global Sprint de Mozilla el 10-11 de mayo. Haremos un [Met-a-thon](https://github.com/virbrussa/M4Labs/issues/4) durante esos días. 
 
-* ENCUESTA . Colabora participando en la encuesta y difúndela. Si sos responsable de crear o pensar en metodologías en tu Lab/espacio colaborativo o si participas como investigador, organización, gobierno o ciudadano en dichos espacios puedes contribuir. ( Desde Abril)
+Podrás Participar a partir de tres modalidades:
 
-* Participa del Global Sprint de Mozilla el 10-11 de mayo. Haremos un Met-a-thon durante esos días. 
+1) Comentando los Tracks Temáticos ya creados para el Met-a-thon 
 
-10/5 : Largada del Met-a-thon. Podras colaborar en los ISSUES creados en el link que compartiremos o entrando a las Charlas Virtuales con referentes labs.
-11/5 : Continuamos el Met-a-thon haciendo un Worshop local.
+[Colaboración](https://github.com/virbrussa/M4Labs/issues/8)
 
-* La Expedición, Encuesta también tendrán un ISSUE abierto en este Github #M4Labs para que podamos ir comentando. 
+[Apertura](https://github.com/virbrussa/M4Labs/issues/9)
+
+[Interdisciplina](https://github.com/virbrussa/M4Labs/issues/10)
+
+[Política detrás de la toma de decisiones](https://github.com/virbrussa/M4Labs/issues/12)
+
+[Caso](https://github.com/virbrussa/M4Labs/issues/11)
+
+2) Abriendo un nuevo Issue con el Título Met-a-thon si no encuentras un tema adecuado a tu idea o propuesta.Sigue los pasos [Acá](https://github.com/virbrussa/M4Labs/issues/13).
+
+
+3) **Participando de Diálogos para visibilizar "Metodologías o prácticas abiertas en espacios colaborativos - Labs de innovación"**
+
+Día y horario:  jueves 10 de mayo a las 10 horas ARG (8 hs MEX y COL / 14 hs UK).
+PRESENCIAL: en la Universidad Metropolitana para la Educación y el Trabajo - UMET (Sarmiento 2037, CABA, ARG).
+REMOTA: vía streaming en [Aprender3C](APRENDER3C.org/aprender3c-en-directo)
+
+INSCRIBITE para participar en cualquiera de las opciones en: https://goo.gl/forms/nCLNfZmwwD92VbLB2
+
+
+
