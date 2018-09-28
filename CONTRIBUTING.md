@@ -10,7 +10,7 @@ Lee el [Código de Conducta](https://github.com/virbrussa/M4Labs/blob/master/Cod
 
 ## Podrás ayudar siendo parte en ...
 
-* EXPEDICIÓN de METODOLOGÍAS LABS: Puedes ayudar completando este Spreedseet con información y recursos que encuentres sobre Metodologías [ACÁ](https://docs.google.com/spreadsheets/d/1rQstfx3ocTHAmXHYAo0blOLgt1M1GDxL_mdRmFoao0w/edit#gid=0)
+* EXPEDICIÓN de METODOLOGÍAS LABS: Puedes ayudar completando este Spreedseet con información y recursos que encuentres sobre Metodologías [ACÁ]
 
 * ENCUESTA . Colabora participando en la encuesta y difúndela. Si sos responsable de crear o pensar en metodologías en tu Lab/espacio colaborativo o si participas como investigador, organización, gobierno o ciudadano en dichos espacios puedes contribuir. 
 [LINK ENCUESTA](https://goo.gl/forms/TZAbOwpBVQRyYGd22) ( SPA VERSION)
